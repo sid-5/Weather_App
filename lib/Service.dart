@@ -18,7 +18,7 @@ class Weather {
   Future<void> getTemp() async{
     try{
 
-      Response obj = await get('http://api.openweathermap.org/data/2.5/weather?q=$location&appid=a35e254ea0d814b7015798c28022f0b3');
+      Response obj = await get('http://api.openweathermap.org/data/2.5/weather?q=$location&appid=YOUR_API_ID');
 
       Map data = jsonDecode(obj.body);
       print(data);
