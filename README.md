@@ -1,16 +1,9 @@
-# weather_app
+# Weather Application
 
-A new Flutter application.
+A basic flutter application which lets you set your location and view the weather in that area using openWeatherAPI for getting weather data with beautiful UI.
 
-## Getting Started
+# Images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210414_231548](https://user-images.githubusercontent.com/70048742/114755824-b3e91c80-9d77-11eb-978b-8936a67d014b.jpg)
+![Screenshot_20210414_231605](https://user-images.githubusercontent.com/70048742/114755828-b64b7680-9d77-11eb-898e-a20c268c61b3.jpg)
+![Screenshot_20210414_231556](https://user-images.githubusercontent.com/70048742/114755835-b8153a00-9d77-11eb-900d-06acafa98b4c.jpg)
